@@ -7,17 +7,22 @@ A proposta é iniciarmos os dados do cliente como um extrato, e em seguida, tere
 Dados iniciais do cliente:
 <br>
 Nome: Jacqueline Oliveira
+<br>
 Tipo conta: Corrente
+<br>
 Saldo inicial: R$ 2500,00
 ***********************
 <br>
 Operações
 <br>
 1- Consultar saldos
+<br>
 2- Receber valor
+<br>
 3- Transferir valor
+<br>
 4- Sair
 <br>
 Digite a opção desejada:
-
+<br>
 Acompanhe minha resolução!
