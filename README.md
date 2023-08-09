@@ -1,7 +1,6 @@
 # desafio_java
 Desafio Em Java - Curso Alura.
-<br>
-<br>
+<br><br>
 A proposta é iniciarmos os dados do cliente como um extrato, e em seguida, teremos quatro opções de operações com a linha para inserir a opção desejada:
 <br>
 ***********************
@@ -14,16 +13,16 @@ Tipo conta: Corrente
 Saldo inicial: R$ 2500,00
 ***********************
 <br>
-Operações
+Operações:
 <br>
-1- Consultar saldos
+1- Consultar saldos.
 <br>
-2- Receber valor
+2- Receber valor.
 <br>
-3- Transferir valor
+3- Transferir valor.
 <br>
-4- Sair
+4- Sair.
 <br>
 Digite a opção desejada:
-<br>
+<br><br>
 Acompanhe minha resolução!
